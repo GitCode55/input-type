@@ -1,11 +1,5 @@
 # INPUT TYPE
 
-How to reproduce:
-Clone this repository to your machine.
-Open the "index.html" file in an internet browser.
-Interact with the different types of input to explore their functionalities.
-License:
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 ## PT
 
 ### Descrição:
